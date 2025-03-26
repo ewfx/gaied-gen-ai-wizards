@@ -1,0 +1,40 @@
+{
+    "Raw Data": [
+        {
+            "source": "Input\\sample.pdf",
+            "text": "SAMPLE BANK \nMock Data Bank, N.A. \n \nTo: FIRST NATIONAL BANK \nDate: 12-Apr-2025 \n \nATTN: AGENT SMITH \nPhone: 888-555-1234 \nFax: 321-654-9876 \nEmail: agent.smith@mockbank.com \n \nRe: AGENT DOE USD 85MM SEP30 / OMEGA FIN00421 \n \nDeal CUSIP: 98765X1YZ \nDeal ISIN: USXYZ987654 \nFacility CUSIP: 54321LMN99 \nFacility ISIN: US54321LMN99 \nLender MEI: US1L987123 \n \nEffective 15-MAR-2025, OMEGA FINANCE CORP has elected to repay under the SOFR (US) \nTerm option, a total of USD 25,000,000.00. \n \nPrevious Global Principal Balance: USD 60,000,000.00 \nNew Global Principal Balance: USD 35,000,000.00 \n \nThis loan was effective 10-Aug-2023 and is scheduled to reprice on 15-May-2025. \n \nYour share of the USD 25,000,000.00 SOFR (US) Term option payment is USD 1,892,857.14. \n \nPrevious Lender Share Principal Balance: USD 4,500,000.00 \nNew Lender Share Principal Balance: USD 2,607,142.86 \n \nWe will remit USD 1,892,857.14 on the effective date. Please note that (i) if the Borrower \nhas not in fact made such payment; or (ii) any payment you receive is in excess of what was \npaid by the Borrower or (iii) we notify you that the payment was erroneously made, then \npursuant to the provisions of the credit facility, you agree to return such payment. \n \nFor: ATLANTIC FINANCIAL BANK To: ATLANTIC FINANCIAL BANK, NA \n \nABA Number: 112233445 \nAccount No: XXXXXXXXXX6789 \nReference: OMEGA FINANCE CORP USD 500MM NOV25, SOFR (US) Term Principal Payment \n\n(OMEGA FIN00421) \n \nThanks & Regards, \nJASON REED \nTelephone #: +19203334444 \nEmail id: jason.reed@mockbank.com",
+            "Duplicate Content": "No"
+        }
+    ],
+    "Extracted Data": [
+        {
+            "source": "Input\\sample.pdf",
+            "Extracted Text": {
+                "bank_name": "SAMPLE BANK",
+                "deal_cusip": "98765X1YZ",
+                "deal_isin": "USXYZ987654",
+                "facility_cusip": "54321LMN99",
+                "facility_isin": "US54321LMN99",
+                "lender_mei": "US1L987123",
+                "effective_date": "15-MAR-2025",
+                "global_principal_balance": {
+                    "previous": "USD 60,000,000.00",
+                    "new": "USD 35,000,000.00"
+                },
+                "sofr_payment": {
+                    "amount": "USD 25,000,000.00",
+                    "borrower_share": "USD 1,892,857.14",
+                    "lender_share": "USD 2,607,142.86"
+                },
+                "repayment_date": "15-MAY-2025",
+                "lender_share_principal_balance": {
+                    "previous": "USD 4,500,000.00",
+                    "new": "USD 2,607,142.86"
+                }
+            },
+            "Request Type": "Closing Notice",
+            "Sub Request Type": "Amendment Fees",
+            "Confidence Score": 0.8
+        }
+    ]
+}

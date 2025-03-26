@@ -1,0 +1,31 @@
+{
+    "Raw Data": [
+        {
+            "source": "Input\\sample.docx",
+            "text": "---\n\nMETROPOLITAN BANK, N.A.\nLoan Agency Services\n\nDate: 18-May-2025\n\nTO: WESTERN UNION BANK, NATIONAL ASSOCIATION\nATTN: MICHAEL CARTER\n\nFax: 900-789-4561\n\nRe: ALPHA INDUSTRIES LLC $ 142.8MM 06-10-2023, TERM LOAN B-1\n\nDescription: Facility Lender Share Adjustment\n\nBORROWER: ALPHA INDUSTRIES LLC\nDEAL NAME: ALPHA INDUSTRIES LLC $ 142.8MM 06-10-2023\n\nEffective 17-May-2025, the Lender Shares of facility TERM LOAN B-1 have been adjusted. Your share of the commitment was USD 6,231,450.29. It has been increased to USD 6,258,990.11.\n\nFor: WESTERN UNION BANK, NA\n\nReference: ALPHA INDUSTRIES LLC $142.8MM 06-10-2023,\n\nIf you have any questions, please call the undersigned.\n\n**************************************** COMMENT ****************************************\nPLEASE FUND YOUR SHARE OF $27,539.82\n\nBank Name: Metropolitan Bank NA\nABA #: 009988776\nAccount #: 0035678912\nAccount Name: LIQ CLO Operating Account\nRef: ALPHA INDUSTRIES LLC\n\nRegards,\nMATTHEW HARRIS\nTelephone #: Fax #:\n\nMetropolitan Commercial Banking is a brand name of Metropolitan Bank, N.A. Member FDIC\n\n---\n\nThis communication is confidential and intended only for the addressee. If you are not the intended recipient, you may not copy, disclose, or distribute this message to anyone else. Any such actions may be unlawful. If you have received this communication in error, please contact the sender to inform them of the error.",
+            "Duplicate Content": "No"
+        }
+    ],
+    "Extracted Data": [
+        {
+            "source": "Input\\sample.docx",
+            "Extracted Text": {
+                "borrower": "ALPHA INDUSTRIES LLC",
+                "deal_name": "ALPHA INDUSTRIES LLC $ 142.8MM 06-10-2023",
+                "effective_date": "17-May-2025",
+                "commitment_share": 6231450.29,
+                "increase_amount": 57784.81,
+                "new_commitment_share": 6258990.11,
+                "bank_name": "Metropolitan Bank, N.A.",
+                "aba_number": "009988776",
+                "account_number": "0035678912",
+                "account_name": "LIQ CLO Operating Account",
+                "reference": "ALPHA INDUSTRIES LLC",
+                "funding_request": "PLEASE FUND YOUR SHARE OF $27,539.82"
+            },
+            "Request Type": "Adjustment",
+            "Sub Request Type": "-",
+            "Confidence Score": 0.8
+        }
+    ]
+}
