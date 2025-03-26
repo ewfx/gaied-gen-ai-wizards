@@ -1,0 +1,448 @@
+2025-03-26 00:00:07,028 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:00:15,655 - [2025-03-26 00:00:15] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:00:15,688 - [2025-03-26 00:00:15] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:00:16,555 - [2025-03-26 00:00:16] \U0001f4c2 JSON saved: output\sample.json
+2025-03-26 00:00:16,555 - [2025-03-26 00:00:16] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:00:16,650 - [2025-03-26 00:00:16] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:00:25,479 - [2025-03-26 00:00:25] \U0001f4c2 JSON saved: output\sample.json
+2025-03-26 00:02:55,138 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:03:04,854 - [2025-03-26 00:03:04] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:03:04,873 - [2025-03-26 00:03:04] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:03:16,692 - [2025-03-26 00:03:16] \U0001f4c2 JSON saved: output\sample.json
+2025-03-26 00:03:16,693 - [2025-03-26 00:03:16] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:03:16,954 - [2025-03-26 00:03:16] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:03:17,553 - [2025-03-26 00:03:17] \U0001f4c2 JSON saved: output\sample.json
+2025-03-26 00:04:55,788 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:05:04,476 - [2025-03-26 00:05:04] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:05:04,484 - [2025-03-26 00:05:04] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:05:15,353 - [2025-03-26 00:05:15] \U0001f4c2 JSON saved: output\sample.json
+2025-03-26 00:05:15,353 - [2025-03-26 00:05:15] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:05:15,515 - [2025-03-26 00:05:15] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:05:31,514 - [2025-03-26 00:05:31] \U0001f4c2 JSON saved: output\sample.json
+2025-03-26 00:10:48,783 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:10:57,165 - [2025-03-26 00:10:57] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:10:57,176 - [2025-03-26 00:10:57] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:11:08,021 - [2025-03-26 00:11:08] \U0001f4c2 JSON saved: output\sample_20250326_001108.json
+2025-03-26 00:11:08,022 - [2025-03-26 00:11:08] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:11:08,198 - [2025-03-26 00:11:08] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:11:24,441 - [2025-03-26 00:11:24] \U0001f4c2 JSON saved: output\sample_20250326_001124.json
+2025-03-26 00:13:27,381 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:13:35,969 - [2025-03-26 00:13:35] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:13:35,980 - [2025-03-26 00:13:35] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:13:46,840 - [2025-03-26 00:13:46] \U0001f4c2 JSON saved: output\docx_sample_20250326_001346.json
+2025-03-26 00:13:46,841 - [2025-03-26 00:13:46] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:13:46,992 - [2025-03-26 00:13:46] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:14:03,958 - [2025-03-26 00:14:03] \U0001f4c2 JSON saved: output\pdf_sample_20250326_001403.json
+2025-03-26 00:18:34,284 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:18:42,967 - [2025-03-26 00:18:42] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:18:42,969 - [2025-03-26 00:18:42] \u274c Error processing sample.docx: name 'extract_text' is not defined
+2025-03-26 00:18:42,969 - [2025-03-26 00:18:42] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:18:42,969 - [2025-03-26 00:18:42] \u274c Error processing sample.pdf: name 'extract_text' is not defined
+2025-03-26 00:19:49,642 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:19:58,362 - [2025-03-26 00:19:58] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:19:58,372 - [2025-03-26 00:19:58] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:20:13,918 - [2025-03-26 00:20:13] \U0001f4c2 JSON saved: output\docx_sample_20250326_002013.json
+2025-03-26 00:20:13,918 - [2025-03-26 00:20:13] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:20:14,078 - [2025-03-26 00:20:14] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:20:35,571 - [2025-03-26 00:20:35] \U0001f4c2 JSON saved: output\pdf_sample_20250326_002035.json
+2025-03-26 00:26:50,744 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:26:59,227 - [2025-03-26 00:26:59] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:26:59,245 - [2025-03-26 00:26:59] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:27:09,512 - [2025-03-26 00:27:09] \U0001f4c2 JSON saved: output\docx_sample_20250326_002709.json
+2025-03-26 00:27:09,513 - [2025-03-26 00:27:09] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:27:09,661 - [2025-03-26 00:27:09] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:27:22,845 - [2025-03-26 00:27:22] \U0001f4c2 JSON saved: output\pdf_sample_20250326_002722.json
+2025-03-26 00:29:46,210 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:29:54,886 - [2025-03-26 00:29:54] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:29:54,899 - [2025-03-26 00:29:54] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:29:56,954 - [2025-03-26 00:29:56] \U0001f4c2 JSON saved: output\docx_sample_20250326_002956.json
+2025-03-26 00:29:56,954 - [2025-03-26 00:29:56] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:29:57,107 - [2025-03-26 00:29:57] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:29:58,844 - [2025-03-26 00:29:58] \U0001f4c2 JSON saved: output\pdf_sample_20250326_002958.json
+2025-03-26 00:32:13,121 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:32:21,874 - [2025-03-26 00:32:21] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:32:21,891 - [2025-03-26 00:32:21] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:32:23,928 - [2025-03-26 00:32:23] \U0001f4c2 JSON saved: output\docx_sample_20250326_003223.json
+2025-03-26 00:32:23,928 - [2025-03-26 00:32:23] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:32:24,084 - [2025-03-26 00:32:24] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:32:31,323 - [2025-03-26 00:32:31] \U0001f4c2 JSON saved: output\pdf_sample_20250326_003231.json
+2025-03-26 00:34:05,779 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:34:14,790 - [2025-03-26 00:34:14] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:34:14,802 - [2025-03-26 00:34:14] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:34:25,837 - [2025-03-26 00:34:25] \U0001f4c2 JSON saved: output\docx_sample_20250326_003425.json
+2025-03-26 00:34:25,838 - [2025-03-26 00:34:25] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:34:25,987 - [2025-03-26 00:34:25] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:34:42,295 - [2025-03-26 00:34:42] \U0001f4c2 JSON saved: output\pdf_sample_20250326_003442.json
+2025-03-26 00:35:16,565 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:35:25,277 - [2025-03-26 00:35:25] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:35:25,290 - [2025-03-26 00:35:25] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:35:36,459 - [2025-03-26 00:35:36] \U0001f4c2 JSON saved: output\docx_sample_20250326_003536.json
+2025-03-26 00:35:36,460 - [2025-03-26 00:35:36] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:35:36,617 - [2025-03-26 00:35:36] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:35:53,472 - [2025-03-26 00:35:53] \U0001f4c2 JSON saved: output\pdf_sample_20250326_003553.json
+2025-03-26 00:38:45,059 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:38:53,762 - [2025-03-26 00:38:53] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:38:53,774 - [2025-03-26 00:38:53] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:39:05,226 - [2025-03-26 00:39:05] \U0001f4c2 JSON saved: output\docx_sample_20250326_003905.json
+2025-03-26 00:39:05,227 - [2025-03-26 00:39:05] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:39:05,375 - [2025-03-26 00:39:05] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:39:21,876 - [2025-03-26 00:39:21] \U0001f4c2 JSON saved: output\pdf_sample_20250326_003921.json
+2025-03-26 00:49:41,219 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:49:49,835 - [2025-03-26 00:49:49] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:49:49,844 - [2025-03-26 00:49:49] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:50:01,398 - [2025-03-26 00:50:01] \U0001f4c2 JSON saved: output\docx_sample_20250326_005001.json
+2025-03-26 00:50:01,399 - [2025-03-26 00:50:01] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:50:01,553 - [2025-03-26 00:50:01] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:50:18,542 - [2025-03-26 00:50:18] \U0001f4c2 JSON saved: output\pdf_sample_20250326_005018.json
+2025-03-26 00:56:45,292 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 00:56:54,260 - [2025-03-26 00:56:54] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 00:56:54,272 - [2025-03-26 00:56:54] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:56:58,717 - [2025-03-26 00:56:58] \U0001f4c2 JSON saved: output\docx_sample_20250326_005658.json
+2025-03-26 00:56:58,717 - [2025-03-26 00:56:58] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 00:56:58,858 - [2025-03-26 00:56:58] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 00:57:08,943 - [2025-03-26 00:57:08] \U0001f4c2 JSON saved: output\pdf_sample_20250326_005708.json
+2025-03-26 01:00:26,059 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:00:34,689 - [2025-03-26 01:00:34] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:00:34,703 - [2025-03-26 01:00:34] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:00:36,665 - [2025-03-26 01:00:36] \U0001f4c2 JSON saved: output\docx_sample_20250326_010036.json
+2025-03-26 01:00:36,666 - [2025-03-26 01:00:36] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:00:36,834 - [2025-03-26 01:00:36] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:00:40,141 - [2025-03-26 01:00:40] \U0001f4c2 JSON saved: output\pdf_sample_20250326_010040.json
+2025-03-26 01:06:14,993 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:06:23,550 - [2025-03-26 01:06:23] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:06:23,572 - [2025-03-26 01:06:23] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:07:16,458 - [2025-03-26 01:07:16] \U0001f4c2 JSON saved: output\docx_sample_20250326_010716.json
+2025-03-26 01:07:16,458 - [2025-03-26 01:07:16] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:07:16,525 - [2025-03-26 01:07:16] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:07:17,830 - [2025-03-26 01:07:17] \U0001f4c2 JSON saved: output\pdf_sample_20250326_010717.json
+2025-03-26 01:09:51,435 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:10:00,311 - [2025-03-26 01:10:00] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:10:00,321 - [2025-03-26 01:10:00] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:10:02,263 - [2025-03-26 01:10:02] \U0001f4c2 JSON saved: output\docx_sample_20250326_011002.json
+2025-03-26 01:10:02,263 - [2025-03-26 01:10:02] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:10:02,414 - [2025-03-26 01:10:02] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:10:04,153 - [2025-03-26 01:10:04] \U0001f4c2 JSON saved: output\pdf_sample_20250326_011004.json
+2025-03-26 01:12:56,199 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:13:04,819 - [2025-03-26 01:13:04] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:13:04,837 - [2025-03-26 01:13:04] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:13:12,265 - [2025-03-26 01:13:12] \U0001f4c2 JSON saved: output\docx_sample_20250326_011312.json
+2025-03-26 01:13:12,266 - [2025-03-26 01:13:12] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:13:12,407 - [2025-03-26 01:13:12] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:13:27,937 - [2025-03-26 01:13:27] \U0001f4c2 JSON saved: output\pdf_sample_20250326_011327.json
+2025-03-26 01:24:03,454 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:24:12,313 - [2025-03-26 01:24:12] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:24:12,321 - [2025-03-26 01:24:12] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:24:23,536 - [2025-03-26 01:24:23] \U0001f4c2 JSON saved: output\docx_sample_20250326_012423.json
+2025-03-26 01:24:23,536 - [2025-03-26 01:24:23] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:24:23,686 - [2025-03-26 01:24:23] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:24:40,305 - [2025-03-26 01:24:40] \U0001f4c2 JSON saved: output\pdf_sample_20250326_012440.json
+2025-03-26 01:43:46,330 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:43:54,823 - [2025-03-26 01:43:54] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:43:54,843 - [2025-03-26 01:43:54] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:44:15,196 - [2025-03-26 01:44:15] \U0001f4c2 JSON saved: output\docx_sample_20250326_014415.json
+2025-03-26 01:44:15,197 - [2025-03-26 01:44:15] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:44:15,474 - [2025-03-26 01:44:15] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:44:36,593 - [2025-03-26 01:44:36] \U0001f4c2 JSON saved: output\pdf_sample_20250326_014436.json
+2025-03-26 01:47:10,380 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:47:19,136 - [2025-03-26 01:47:19] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:47:19,155 - [2025-03-26 01:47:19] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:47:32,990 - [2025-03-26 01:47:32] \U0001f4c2 JSON saved: output\docx_sample_20250326_014732.json
+2025-03-26 01:47:32,990 - [2025-03-26 01:47:32] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:47:33,233 - [2025-03-26 01:47:33] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:47:53,485 - [2025-03-26 01:47:53] \U0001f4c2 JSON saved: output\pdf_sample_20250326_014753.json
+2025-03-26 01:48:53,268 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:49:01,852 - [2025-03-26 01:49:01] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:49:01,865 - [2025-03-26 01:49:01] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:49:15,548 - [2025-03-26 01:49:15] \U0001f4c2 JSON saved: output\docx_sample_20250326_014915.json
+2025-03-26 01:49:15,548 - [2025-03-26 01:49:15] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:49:15,616 - [2025-03-26 01:49:15] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:49:34,765 - [2025-03-26 01:49:34] \U0001f4c2 JSON saved: output\pdf_sample_20250326_014934.json
+2025-03-26 01:52:43,961 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:52:52,780 - [2025-03-26 01:52:52] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:52:52,794 - [2025-03-26 01:52:52] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:53:16,615 - [2025-03-26 01:53:16] \U0001f4c2 JSON saved: output\docx_sample_20250326_015316.json
+2025-03-26 01:53:16,615 - [2025-03-26 01:53:16] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:53:16,705 - [2025-03-26 01:53:16] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:53:46,288 - [2025-03-26 01:53:46] \U0001f4c2 JSON saved: output\pdf_sample_20250326_015346.json
+2025-03-26 01:56:35,617 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 01:56:45,027 - [2025-03-26 01:56:45] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 01:56:45,037 - [2025-03-26 01:56:45] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:56:59,075 - [2025-03-26 01:56:59] \U0001f4c2 JSON saved: output\docx_sample_20250326_015659.json
+2025-03-26 01:56:59,076 - [2025-03-26 01:56:59] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 01:56:59,157 - [2025-03-26 01:56:59] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 01:57:18,552 - [2025-03-26 01:57:18] \U0001f4c2 JSON saved: output\pdf_sample_20250326_015718.json
+2025-03-26 02:03:39,179 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:03:48,033 - [2025-03-26 02:03:48] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 02:03:48,042 - [2025-03-26 02:03:48] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:03:59,415 - [2025-03-26 02:03:59] \U0001f4c2 JSON saved: output\docx_sample_20250326_020359.json
+2025-03-26 02:03:59,416 - [2025-03-26 02:03:59] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 02:03:59,489 - [2025-03-26 02:03:59] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:04:16,404 - [2025-03-26 02:04:16] \U0001f4c2 JSON saved: output\pdf_sample_20250326_020416.json
+2025-03-26 02:05:33,689 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:05:42,321 - [2025-03-26 02:05:42] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 02:05:42,332 - [2025-03-26 02:05:42] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:05:53,734 - [2025-03-26 02:05:53] \u274c Error processing sample.docx: update_extracted_json() takes 1 positional argument but 2 were given
+2025-03-26 02:05:53,734 - [2025-03-26 02:05:53] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 02:05:53,911 - [2025-03-26 02:05:53] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:06:10,873 - [2025-03-26 02:06:10] \u274c Error processing sample.pdf: update_extracted_json() takes 1 positional argument but 2 were given
+2025-03-26 02:07:07,650 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:07:17,135 - [2025-03-26 02:07:17] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 02:07:17,142 - [2025-03-26 02:07:17] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:07:28,235 - [2025-03-26 02:07:28] \U0001f4c2 JSON saved: output\docx_sample_20250326_020728.json
+2025-03-26 02:07:28,235 - [2025-03-26 02:07:28] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 02:07:28,311 - [2025-03-26 02:07:28] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:07:44,763 - [2025-03-26 02:07:44] \U0001f4c2 JSON saved: output\pdf_sample_20250326_020744.json
+2025-03-26 02:14:05,332 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:14:14,212 - [2025-03-26 02:14:14] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 02:14:14,256 - [2025-03-26 02:14:14] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:14:26,229 - [2025-03-26 02:14:26] \U0001f4c2 JSON saved: Output\docx_sample_20250326_021426.json
+2025-03-26 02:14:26,230 - [2025-03-26 02:14:26] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 02:14:26,348 - [2025-03-26 02:14:26] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:14:42,914 - [2025-03-26 02:14:42] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_021442.json
+2025-03-26 02:15:51,263 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:16:00,233 - [2025-03-26 02:16:00] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 02:16:00,251 - [2025-03-26 02:16:00] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:16:11,749 - [2025-03-26 02:16:11] \U0001f4c2 JSON saved: Output\docx_sample_20250326_021611.json
+2025-03-26 02:16:11,749 - [2025-03-26 02:16:11] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 02:16:11,833 - [2025-03-26 02:16:11] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:16:28,981 - [2025-03-26 02:16:28] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_021628.json
+2025-03-26 02:27:22,910 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:27:31,733 - [2025-03-26 02:27:31] 
+\U0001f680 Processing file: generated_email.eml
+2025-03-26 02:27:31,769 - [2025-03-26 02:27:31] \u274c Error extracting DOCX: name 'docx' is not defined
+2025-03-26 02:27:31,941 - [2025-03-26 02:27:31] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:27:56,412 - [2025-03-26 02:27:56] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_022756.json
+2025-03-26 02:27:56,412 - [2025-03-26 02:27:56] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 02:27:56,412 - [2025-03-26 02:27:56] \u274c Error extracting DOCX: name 'docx' is not defined
+2025-03-26 02:27:56,412 - [2025-03-26 02:27:56] \u26a0\ufe0f No text extracted from sample.docx. Skipping.
+2025-03-26 02:27:56,413 - [2025-03-26 02:27:56] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 02:27:56,463 - [2025-03-26 02:27:56] \U0001f50d Extracting financial data using Mistral-7B...
+2025-03-26 02:28:13,526 - [2025-03-26 02:28:13] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_022813.json
+2025-03-26 02:33:46,617 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:33:55,390 - [2025-03-26 02:33:55] 
+\U0001f680 Processing file: generated_email.eml
+2025-03-26 02:33:55,526 - [2025-03-26 02:33:55] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_023355.json
+2025-03-26 02:33:55,527 - [2025-03-26 02:33:55] 
+\U0001f680 Processing file: sample.docx
+2025-03-26 02:33:55,555 - [2025-03-26 02:33:55] \U0001f4c2 JSON saved: Output\docx_sample_20250326_023355.json
+2025-03-26 02:33:55,555 - [2025-03-26 02:33:55] 
+\U0001f680 Processing file: sample.pdf
+2025-03-26 02:33:55,599 - [2025-03-26 02:33:55] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_023355.json
+2025-03-26 02:47:46,615 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:48:36,254 - [2025-03-26 02:48:36] \U0001f4c2 JSON saved: Output\generated_email_20250326_024836.json
+2025-03-26 02:48:49,680 - [2025-03-26 02:48:49] \U0001f4c2 JSON saved: Output\sample_20250326_024849.json
+2025-03-26 02:49:02,466 - [2025-03-26 02:49:02] \U0001f4c2 JSON saved: Output\sample_20250326_024902.json
+2025-03-26 02:50:12,107 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:51:00,387 - [2025-03-26 02:51:00] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_025100.json
+2025-03-26 02:51:13,498 - [2025-03-26 02:51:13] \U0001f4c2 JSON saved: Output\docx_sample_20250326_025113.json
+2025-03-26 02:51:26,088 - [2025-03-26 02:51:26] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_025126.json
+2025-03-26 02:56:51,271 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 02:57:00,224 - [2025-03-26 02:57:00] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_025700.json
+2025-03-26 03:00:25,532 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:00:34,072 - [2025-03-26 03:00:34] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_030034.json
+2025-03-26 03:00:34,076 - [2025-03-26 03:00:34] \U0001f4c2 JSON saved: Output\docx_sample_20250326_030034.json
+2025-03-26 03:00:34,118 - [2025-03-26 03:00:34] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_030034.json
+2025-03-26 03:04:48,942 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:05:33,958 - [2025-03-26 03:05:33] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_030533.json
+2025-03-26 03:05:44,474 - [2025-03-26 03:05:44] \U0001f4c2 JSON saved: Output\docx_sample_20250326_030544.json
+2025-03-26 03:06:00,893 - [2025-03-26 03:06:00] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_030600.json
+2025-03-26 03:08:23,790 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:09:09,428 - [2025-03-26 03:09:09] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_030909.json
+2025-03-26 03:09:19,925 - [2025-03-26 03:09:19] \U0001f4c2 JSON saved: Output\docx_sample_20250326_030919.json
+2025-03-26 03:09:36,272 - [2025-03-26 03:09:36] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_030936.json
+2025-03-26 03:10:54,728 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:11:40,788 - [2025-03-26 03:11:40] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_031140.json
+2025-03-26 03:11:51,511 - [2025-03-26 03:11:51] \U0001f4c2 JSON saved: Output\docx_sample_20250326_031151.json
+2025-03-26 03:12:08,478 - [2025-03-26 03:12:08] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_031208.json
+2025-03-26 03:14:39,616 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:15:14,135 - [2025-03-26 03:15:14] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_031514.json
+2025-03-26 03:15:24,835 - [2025-03-26 03:15:24] \U0001f4c2 JSON saved: Output\docx_sample_20250326_031524.json
+2025-03-26 03:15:41,164 - [2025-03-26 03:15:41] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_031541.json
+2025-03-26 03:18:23,875 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:19:09,435 - [2025-03-26 03:19:09] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_031909.json
+2025-03-26 03:19:20,027 - [2025-03-26 03:19:20] \U0001f4c2 JSON saved: Output\docx_sample_20250326_031920.json
+2025-03-26 03:19:36,595 - [2025-03-26 03:19:36] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_031936.json
+2025-03-26 03:21:34,933 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:22:21,147 - [2025-03-26 03:22:21] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_032221.json
+2025-03-26 03:22:32,111 - [2025-03-26 03:22:32] \U0001f4c2 JSON saved: Output\docx_sample_20250326_032232.json
+2025-03-26 03:22:48,572 - [2025-03-26 03:22:48] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_032248.json
+2025-03-26 03:25:00,299 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:25:45,504 - [2025-03-26 03:25:45] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_032545.json
+2025-03-26 03:25:56,144 - [2025-03-26 03:25:56] \U0001f4c2 JSON saved: Output\docx_sample_20250326_032556.json
+2025-03-26 03:26:13,101 - [2025-03-26 03:26:13] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_032613.json
+2025-03-26 03:28:53,547 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:29:38,872 - [2025-03-26 03:29:38] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_032938.json
+2025-03-26 03:29:49,319 - [2025-03-26 03:29:49] \U0001f4c2 JSON saved: Output\docx_sample_20250326_032949.json
+2025-03-26 03:30:05,773 - [2025-03-26 03:30:05] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_033005.json
+2025-03-26 03:31:22,475 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:32:08,876 - [2025-03-26 03:32:08] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_033208.json
+2025-03-26 03:32:19,779 - [2025-03-26 03:32:19] \U0001f4c2 JSON saved: Output\docx_sample_20250326_033219.json
+2025-03-26 03:32:36,457 - [2025-03-26 03:32:36] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_033236.json
+2025-03-26 03:38:32,791 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:39:18,601 - [2025-03-26 03:39:18] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_033918.json
+2025-03-26 03:39:29,223 - [2025-03-26 03:39:29] \U0001f4c2 JSON saved: Output\docx_sample_20250326_033929.json
+2025-03-26 03:39:45,745 - [2025-03-26 03:39:45] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_033945.json
+2025-03-26 03:40:40,331 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:46:46,803 - [2025-03-26 03:46:46] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_034646.json
+2025-03-26 03:46:57,546 - [2025-03-26 03:46:57] \U0001f4c2 JSON saved: Output\docx_sample_20250326_034657.json
+2025-03-26 03:47:14,091 - [2025-03-26 03:47:14] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_034714.json
+2025-03-26 03:47:21,049 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:48:07,028 - [2025-03-26 03:48:07] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_034807.json
+2025-03-26 03:48:18,092 - [2025-03-26 03:48:18] \U0001f4c2 JSON saved: Output\docx_sample_20250326_034818.json
+2025-03-26 03:48:35,053 - [2025-03-26 03:48:35] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_034835.json
+2025-03-26 03:48:47,354 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:49:32,557 - [2025-03-26 03:49:32] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_034932.json
+2025-03-26 03:49:42,960 - [2025-03-26 03:49:42] \U0001f4c2 JSON saved: Output\docx_sample_20250326_034942.json
+2025-03-26 03:49:59,163 - [2025-03-26 03:49:59] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_034959.json
+2025-03-26 03:52:58,378 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:53:43,524 - [2025-03-26 03:53:43] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_035343.json
+2025-03-26 03:53:53,985 - [2025-03-26 03:53:53] \U0001f4c2 JSON saved: Output\docx_sample_20250326_035353.json
+2025-03-26 03:54:10,806 - [2025-03-26 03:54:10] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_035410.json
+2025-03-26 03:55:36,921 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:56:23,713 - [2025-03-26 03:56:23] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_035623.json
+2025-03-26 03:56:34,433 - [2025-03-26 03:56:34] \U0001f4c2 JSON saved: Output\docx_sample_20250326_035634.json
+2025-03-26 03:56:51,060 - [2025-03-26 03:56:51] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_035651.json
+2025-03-26 03:58:58,737 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 03:59:43,784 - [2025-03-26 03:59:43] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_035943.json
+2025-03-26 03:59:54,370 - [2025-03-26 03:59:54] \U0001f4c2 JSON saved: Output\docx_sample_20250326_035954.json
+2025-03-26 04:00:11,309 - [2025-03-26 04:00:11] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_040011.json
+2025-03-26 04:04:12,614 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:04:59,036 - [2025-03-26 04:04:59] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_040459.json
+2025-03-26 04:05:09,558 - [2025-03-26 04:05:09] \U0001f4c2 JSON saved: Output\docx_sample_20250326_040509.json
+2025-03-26 04:05:25,989 - [2025-03-26 04:05:25] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_040525.json
+2025-03-26 04:12:34,038 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:13:20,635 - [2025-03-26 04:13:20] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_041320.json
+2025-03-26 04:13:31,198 - [2025-03-26 04:13:31] \U0001f4c2 JSON saved: Output\docx_sample_20250326_041331.json
+2025-03-26 04:13:47,646 - [2025-03-26 04:13:47] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_041347.json
+2025-03-26 04:18:54,079 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:19:40,064 - [2025-03-26 04:19:40] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_041940.json
+2025-03-26 04:19:50,890 - [2025-03-26 04:19:50] \U0001f4c2 JSON saved: Output\docx_sample_20250326_041950.json
+2025-03-26 04:20:07,716 - [2025-03-26 04:20:07] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_042007.json
+2025-03-26 04:29:03,127 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:31:12,773 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:32:58,462 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:35:28,651 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:36:51,278 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:39:11,692 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:40:58,337 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:41:43,565 - [2025-03-26 04:41:43] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_044143.json
+2025-03-26 04:41:54,180 - [2025-03-26 04:41:54] \U0001f4c2 JSON saved: Output\docx_sample_20250326_044154.json
+2025-03-26 04:42:11,393 - [2025-03-26 04:42:11] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_044211.json
+2025-03-26 04:44:34,905 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:46:29,944 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:47:15,502 - [2025-03-26 04:47:15] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_044715.json
+2025-03-26 04:47:25,953 - [2025-03-26 04:47:25] \U0001f4c2 JSON saved: Output\docx_sample_20250326_044725.json
+2025-03-26 04:47:42,433 - [2025-03-26 04:47:42] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_044742.json
+2025-03-26 04:49:31,596 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:50:17,499 - [2025-03-26 04:50:17] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_045017.json
+2025-03-26 04:50:28,498 - [2025-03-26 04:50:28] \U0001f4c2 JSON saved: Output\docx_sample_20250326_045028.json
+2025-03-26 04:50:44,905 - [2025-03-26 04:50:44] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_045044.json
+2025-03-26 04:53:24,613 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:54:10,490 - [2025-03-26 04:54:10] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_045410.json
+2025-03-26 04:54:21,329 - [2025-03-26 04:54:21] \U0001f4c2 JSON saved: Output\docx_sample_20250326_045421.json
+2025-03-26 04:54:38,080 - [2025-03-26 04:54:38] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_045438.json
+2025-03-26 04:55:46,739 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 04:56:33,996 - [2025-03-26 04:56:33] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_045633.json
+2025-03-26 04:56:44,934 - [2025-03-26 04:56:44] \U0001f4c2 JSON saved: Output\docx_sample_20250326_045644.json
+2025-03-26 04:57:01,434 - [2025-03-26 04:57:01] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_045701.json
+2025-03-26 05:00:58,010 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:01:43,774 - [2025-03-26 05:01:43] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_050143.json
+2025-03-26 05:01:54,262 - [2025-03-26 05:01:54] \U0001f4c2 JSON saved: Output\docx_sample_20250326_050154.json
+2025-03-26 05:02:11,208 - [2025-03-26 05:02:11] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_050211.json
+2025-03-26 05:08:26,601 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:10:04,026 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:10:49,746 - [2025-03-26 05:10:49] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_051049.json
+2025-03-26 05:11:00,248 - [2025-03-26 05:11:00] \U0001f4c2 JSON saved: Output\docx_sample_20250326_051100.json
+2025-03-26 05:11:16,704 - [2025-03-26 05:11:16] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_051116.json
+2025-03-26 05:13:43,235 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:15:23,935 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:16:54,744 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:17:40,146 - [2025-03-26 05:17:40] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_051740.json
+2025-03-26 05:17:50,660 - [2025-03-26 05:17:50] \U0001f4c2 JSON saved: Output\docx_sample_20250326_051750.json
+2025-03-26 05:18:07,403 - [2025-03-26 05:18:07] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_051807.json
+2025-03-26 05:19:27,931 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:20:13,984 - [2025-03-26 05:20:13] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_052013.json
+2025-03-26 05:20:25,043 - [2025-03-26 05:20:25] \U0001f4c2 JSON saved: Output\docx_sample_20250326_052025.json
+2025-03-26 05:20:41,744 - [2025-03-26 05:20:41] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_052041.json
+2025-03-26 05:22:49,016 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:23:36,984 - [2025-03-26 05:23:36] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_052336.json
+2025-03-26 05:23:47,660 - [2025-03-26 05:23:47] \U0001f4c2 JSON saved: Output\docx_sample_20250326_052347.json
+2025-03-26 05:24:04,308 - [2025-03-26 05:24:04] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_052404.json
+2025-03-26 05:27:31,859 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:28:18,440 - [2025-03-26 05:28:18] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_052818.json
+2025-03-26 05:28:29,383 - [2025-03-26 05:28:29] \U0001f4c2 JSON saved: Output\docx_sample_20250326_052829.json
+2025-03-26 05:28:46,208 - [2025-03-26 05:28:46] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_052846.json
+2025-03-26 05:31:51,875 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:32:38,993 - [2025-03-26 05:32:38] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_053238.json
+2025-03-26 05:32:49,650 - [2025-03-26 05:32:49] \U0001f4c2 JSON saved: Output\docx_sample_20250326_053249.json
+2025-03-26 05:33:06,544 - [2025-03-26 05:33:06] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_053306.json
+2025-03-26 05:34:37,351 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:35:22,414 - [2025-03-26 05:35:22] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_053522.json
+2025-03-26 05:35:33,170 - [2025-03-26 05:35:33] \U0001f4c2 JSON saved: Output\docx_sample_20250326_053533.json
+2025-03-26 05:35:49,631 - [2025-03-26 05:35:49] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_053549.json
+2025-03-26 05:39:43,112 - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+2025-03-26 05:40:30,131 - [2025-03-26 05:40:30] \U0001f4c2 JSON saved: Output\eml_generated_email_20250326_054030.json
+2025-03-26 05:40:41,012 - [2025-03-26 05:40:41] \U0001f4c2 JSON saved: Output\docx_sample_20250326_054041.json
+2025-03-26 05:40:57,561 - [2025-03-26 05:40:57] \U0001f4c2 JSON saved: Output\pdf_sample_20250326_054057.json
